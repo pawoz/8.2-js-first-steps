@@ -1,3 +1,3 @@
-var name = prompt('Paweł');
-alert('Witaj, ' + Paweł);
-console.log('Witaj, ' + Paweł);
+var name = prompt('Wpisz swoje imię');
+alert('Witaj, ' + name);
+console.log('Witaj, ' + name);
